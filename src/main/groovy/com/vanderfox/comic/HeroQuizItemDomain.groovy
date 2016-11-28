@@ -1,4 +1,4 @@
-package com.vanderfox.hero
+package com.vanderfox.comic
 
 import grails.persistence.Entity
 

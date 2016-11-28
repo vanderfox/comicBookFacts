@@ -1,4 +1,4 @@
-package com.vanderfox.hero;
+package com.vanderfox.comic;
 
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClient;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper

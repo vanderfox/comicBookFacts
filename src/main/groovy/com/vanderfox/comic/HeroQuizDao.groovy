@@ -1,4 +1,4 @@
-package com.vanderfox.hero;
+package com.vanderfox.comic;
 
 import com.amazon.speech.speechlet.Session
 import org.slf4j.Logger

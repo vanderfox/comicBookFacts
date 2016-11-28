@@ -1,4 +1,4 @@
-package com.vanderfox.hero;
+package com.vanderfox.comic;
 
 import java.util.ArrayList;
 import java.util.HashMap;

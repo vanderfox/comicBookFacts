@@ -1,4 +1,4 @@
-package com.vanderfox.hero.question
+package com.vanderfox.comic.question
 
 /**
  * Created by lfox on 6/16/16.

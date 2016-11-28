@@ -1,4 +1,4 @@
-package com.vanderfox.hero
+package com.vanderfox.comic
 
 import com.amazon.speech.slu.Intent
 import com.amazon.speech.slu.Slot
