@@ -1,4 +1,4 @@
-package com.vanderfox.hero.user
+package com.vanderfox.comic.user
 
 /**
  * Created by lfox on 6/15/16.
